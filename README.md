@@ -5,7 +5,7 @@ Currently working on a [long-term research project (🇧🇷)](https://github.co
 You can read - or listen to - my journey alongside a [dear colleague](https://github.com/vtoliveira) into winning our first-ever Data Science competition:
 
 <p align="center">
-  <a href="https://towardsdatascience.com/how-we-finished-3rd-and-still-won-a-data-science-competition-bf8a71cf8c38" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/jcezarms/ey-nextwave-competition" target="_blank" rel="noopener noreferrer">
     :computer: here!
   </a>
   <br />
