@@ -1,7 +1,7 @@
 I'm Julio, and this is my chamber of somewhat usable code.  
 Reach out to me at `juliocmdsilva@gmail.com`
 
-Currently working on a [long-term research project (🇧🇷)](https://github.com/jcezarms/monitor-social-de-secas) to increase climate vulnerability transparence for Brazil's northeastern region.  
+Currently working on a [long-term research project (🇧🇷)](https://github.com/jcezarms/monitor-social-de-secas) to increase climate vulnerability transparency for Brazil's northeastern region.  
 You can read - or listen to - my journey alongside a [dear colleague](https://github.com/vtoliveira) into winning our first-ever Data Science competition:
 
 <p align="center">
